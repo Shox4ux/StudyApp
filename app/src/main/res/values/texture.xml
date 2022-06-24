@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="section_cards_height">160dp</dimen>
+    <dimen name="section_cards_weight">130dp</dimen>
+    <dimen name="section_text">20sp</dimen>
+    <dimen name="card_radius">6dp</dimen>
+    <dimen name="margin_bottom_text">10dp</dimen>
+    <dimen name="margin_top_image">10dp</dimen>
+    <dimen name="level_fit">25dp</dimen>
+</resources>

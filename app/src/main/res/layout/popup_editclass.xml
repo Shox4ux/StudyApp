@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/class_owner"
+        android:layout_width="48dp"
+        android:layout_height="0dp"
+        android:background="@color/icon"
+        android:src="@drawable/ic_school"
+        app:layout_constraintBottom_toBottomOf="@+id/class_title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/class_title"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:hint="Class Title"
+        android:id="@+id/class_title"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:textColorHint="#a1ffffff"
+        android:background="@drawable/class_add_bg"
+        android:minHeight="48dp"
+        android:fontFamily="@font/baloo"
+        android:textColor="@color/button"
+        app:layout_constraintEnd_toStartOf="@+id/class_owner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/class_time"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:background="@drawable/class_add_bg"
+        android:hint="Class Time"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:fontFamily="@font/baloo"
+        android:textColor="@color/button"
+        android:textColorHint="#a1ffffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/class_body"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/class_body"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:background="@drawable/class_add_bg"
+        android:hint="Class Description"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:fontFamily="@font/baloo"
+        android:textColor="@color/button"
+        android:textColorHint="#a1ffffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/class_owner"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/class_view"
+        android:layout_width="0dp"
+        android:layout_height="225dp"
+        android:background="@color/background"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/class_time"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/class_create_btn"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/circle_class_btn_bg"
+        android:padding="12dp"
+        android:src="@drawable/baseline_ic"
+        app:layout_constraintBottom_toBottomOf="@+id/class_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/class_view"
+        tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:background="@drawable/circle_class_btn_bg"
+        android:padding="2dp"
+        android:visibility="invisible"
+        android:id="@+id/wait_create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/class_create_btn"
+        app:layout_constraintEnd_toEndOf="@+id/class_create_btn"
+        app:layout_constraintStart_toStartOf="@+id/class_create_btn"
+        app:layout_constraintTop_toTopOf="@+id/class_create_btn"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

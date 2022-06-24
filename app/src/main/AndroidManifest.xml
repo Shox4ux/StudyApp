@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dictionary" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dictionary" >
+        <activity
+            android:name=".VocabularyShop.ImageVocab.Activities.CategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Classes.ClassDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookShop.Books.BookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookShop.Quotes.QuoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration.SettingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Classes.ClassesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration.WelcomeActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Registration.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.C2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.C1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Registration.NetworkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.B2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.B1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.A2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.Activities.A1_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".TestShop.TestSectionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GrammarShop.GrammarSectionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BookShop.StudySectionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VocabularyShop.Complex.Comlex.ComplexVocabularyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Main.MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1f1f1d"
+    android:orientation="vertical"
+    tools:context=".Registration.WelcomeActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/first_line"
+            android:layout_width="20dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:background="#fff" />
+
+        <View
+            android:id="@+id/second_line"
+            android:layout_width="20dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/first_line"
+            android:background="#f00" />
+
+        <View
+            android:id="@+id/third_line"
+            android:layout_width="20dp"
+            android:layout_height="250dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/second_line"
+            android:background="#fff" />
+
+        <View
+            android:id="@+id/fourth_line"
+            android:layout_width="20dp"
+            android:layout_height="200dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/third_line"
+            android:background="#f00" />
+
+        <View
+            android:id="@+id/fifth_line"
+            android:layout_width="20dp"
+            android:layout_height="220dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/fourth_line"
+            android:background="#0ff" />
+
+        <View
+            android:id="@+id/sixth_line"
+            android:layout_width="20dp"
+            android:layout_height="150dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/fifth_line"
+            android:background="#fff" />
+
+        <View
+            android:id="@+id/seventh_line"
+            android:layout_width="20dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="8dp"
+            android:layout_toRightOf="@+id/sixth_line"
+            android:background="#0ff" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:id="@+id/school"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="18dp"
+            android:layout_toLeftOf="@+id/fast"
+            android:src="@drawable/wel_school" />
+
+        <TextView
+            android:id="@+id/fast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="60dp"
+            android:fontFamily="@font/baloo"
+            android:layout_marginLeft="10dp"
+            android:text="Fast "
+            android:textColor="@color/icon"
+            android:textSize="60sp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/education"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo"
+            android:gravity="top|center"
+            android:text="Education"
+            android:textColor="@color/icon"
+            android:textSize="40sp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/quite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="@font/baloo"
+                android:text="Today is your tomorrow"
+                android:textColor="@color/icon"
+                android:textSize="24dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

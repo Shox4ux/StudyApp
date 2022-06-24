@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a1word_1" >about</string>
+    <string name="a1transcription_1" >/əˈbaʊt/</string>
+    <string name="a1translation_1">relating to a particular subject or person</string>
+    <string name="a1example_1" > What is she talking about?</string>
+    <string name="a1uz_1">haqida</string>
+
+    <string name="a1word_2" >above</string>
+    <string name="a1transcription_2" >/əˈbʌv/</string>
+    <string name="a1translation_2">in or to a higher position than something else</string>
+    <string name="a1example_2">Her name comes above mine on the list</string>
+    <string name="a1uz_2">tepada</string>
+
+    <string name="a1word_3">address</string>
+    <string name="a1transcription_3">/əˈdres/</string>
+    <string name="a1translation_3">the details of where a building is, including the building number, road name,town, etc.</string>
+    <string name="a1example_3">her business/home address</string>
+    <string name="a1uz_3">manzil</string>
+
+    <string name="a1word_4">adult</string>
+    <string name="a1transcription_4">/ˈæd.ʌlt/</string>
+    <string name="a1translation_4">a person or animal that has grown to full size and strength</string>
+    <string name="a1example_4">Adults pay an admission charge but children get in free.</string>
+    <string name="a1uz_4">"o'smir"</string>
+
+    <string name="a1word_5">after</string>
+    <string name="a1transcription_5">/ˈɑːf.tər/</string>
+    <string name="a1translation_5">when a time or event has happened</string>
+    <string name="a1example_5">Shall we go for a walk after breakfast?</string>
+    <string name="a1uz_5">dan keyin</string>
+
+    <string name="a1word_6">all</string>
+    <string name="a1transcription_6">/ɔːl/</string>
+    <string name="a1translation_6">every person or thing in a group</string>
+    <string name="a1example_6">I hope you are all well.</string>
+    <string name="a1uz_6">hamma</string>
+
+
+    <string name="a1word_7">again</string>
+    <string name="a1transcription_7">/əˈgeɪn/</string>
+    <string name="a1translation_7">once more</string>
+    <string name="a1example_7">Thank you again.</string>
+    <string name="a1uz_7">yana</string>
+
+    <string name="a1word_8">afternoon</string>
+    <string name="a1transcription_8">/ˌɑːf.təˈnuːn/</string>
+    <string name="a1translation_8">the time between the middle of the day and the evening</string>
+    <string name="a1example_8">He is been in a bad mood all afternoon</string>
+    <string name="a1uz_8">kechqurun</string>
+
+    <string name="a1word_9">birthday</string>
+    <string name="a1transcription_9">/ˈbɜːθ.deɪ/</string>
+    <string name="a1translation_9">the day on which someone was born, or the same date each year</string>
+    <string name="a1example_9">Happy birthday!</string>
+    <string name="a1uz_9">"tug'ilgan kun"</string>
+
+    <string name="a1word_10">beach</string>
+    <string name="a1transcription_10">/biːtʃ/</string>
+    <string name="a1translation_10">an area of sand or small stones next to the sea</string>
+    <string name="a1example_10">After, I went to the beach with my family</string>
+    <string name="a1uz_10">sohil</string>
+
+    <string name="a1word_11">beautiful </string>
+    <string name="a1transcription_11">/ˈbjuː.tɪ.fəl/</string>
+    <string name="a1translation_11">very attractive</string>
+    <string name="a1example_11">She was wearing a beautiful dress.</string>
+    <string name="a1uz_11">chiroyli</string>
+
+    <string name="a1word_12">boring</string>
+    <string name="a1transcription_12">/ˈbɔː.rɪŋ/</string>
+    <string name="a1translation_12">not interesting or exciting</string>
+    <string name="a1example_12">My party was boring without you.</string>
+    <string name="a1uz_12">zerikarli</string>
+
+    <string name="a1word_13">but</string>
+    <string name="a1transcription_13">/bʌt/</string>
+    <string name="a1translation_13">used to introduce an added statement, usually something that is different from what you have said before</string>
+    <string name="a1example_13">There are eight rooms but the best one is my bedroom, because there are a lot of books.</string>
+    <string name="a1uz_13">ammo</string>
+
+    <string name="a1word_14">buy</string>
+    <string name="a1transcription_14">/baɪ/</string>
+    <string name="a1translation_14">to get something by paying money for it</string>
+    <string name="a1example_14">Eventually she had saved enough money to buy a small car.</string>
+    <string name="a1uz_14">sotib olmoq</string>
+
+    <string name="a1word_15">butter</string>
+    <string name="a1transcription_15">/ˈbʌt.ər/</string>
+    <string name="a1translation_15">a pale yellow food made from cream that you put on bread or use in cooking</string>
+    <string name="a1example_15">We have fresh farm food like butter, milk, cheese.</string>
+    <string name="a1uz_15">"saryog'"</string>
+
+    <string name="a1word_16">bus</string>
+    <string name="a1transcription_16">/bʌs/</string>
+    <string name="a1translation_16">a large vehicle in which people are driven from one place to another</string>
+    <string name="a1example_16">You can get there by bus.</string>
+    <string name="a1uz_16">avtobus</string>
+
+    <string name="a1word_17">cake</string>
+    <string name="a1transcription_17">/keɪk/</string>
+    <string name="a1translation_17">a sweet food made from flour, butter, sugar and eggs, mixed together and baked</string>
+    <string name="a1example_17">Your chocolate cake is great too.</string>
+    <string name="a1uz_17">tort</string>
+
+    <string name="a1word_18">catch</string>
+    <string name="a1transcription_18">/kætʃ/</string>
+    <string name="a1translation_18">to take hold of something, especially something that is moving through the air </string>
+    <string name="a1example_18">I got there too late to catch the last bus home.</string>
+    <string name="a1uz_18">ushlamoq</string>
+
+    <string name="a1word_19">CD player</string>
+    <string name="a1transcription_19">/ˌsiːˈdiːˌpleɪ.ər/</string>
+    <string name="a1translation_19">a machine that is used for playing music CDs</string>
+    <string name="a1example_19">She has a CD player in her bedroom.</string>
+    <string name="a1uz_19">CD player</string>
+
+    <string name="a1word_20">change</string>
+    <string name="a1transcription_20">/tʃeɪndʒ/</string>
+    <string name="a1translation_20">to stop having or using one thing, and start having or using another</string>
+    <string name="a1example_20">I hope they can change the time of my interview.</string>
+    <string name="a1uz_20">"o'zgartirmoq"</string>
+
+    <string name="a1word_21">chip</string>
+    <string name="a1transcription_21">/tʃɪp/</string>
+    <string name="a1translation_21">a long thin piece of potato that is cooked in oil</string>
+    <string name="a1example_21">I like to eat fish and chips.</string>
+    <string name="a1uz_21">qovurilgan kartoshka</string>
+
+    <string name="a1word_22">cinema</string>
+    <string name="a1transcription_22">/ˈsɪn.ə.mə/</string>
+    <string name="a1translation_22">a building where you go to watch films</string>
+    <string name="a1example_22">The town no longer has a cinema.</string>
+    <string name="a1uz_22">kinoteatr</string>
+
+    <string name="a1word_23">city</string>
+    <string name="a1transcription_23">/ˈsɪt.i/</string>
+    <string name="a1translation_23">a large town</string>
+    <string name="a1example_23">I visit this city every year in June</string>
+    <string name="a1uz_23">shahar</string>
+
+    <string name="a1word_24">cheap</string>
+    <string name="a1transcription_24">/tʃiːp/</string>
+    <string name="a1translation_24">costing little money or less than is usual or expected</string>
+    <string name="a1example_24">Food is usually cheaper in supermarkets.</string>
+    <string name="a1uz_24">arzon</string>
+
+    <string name="a1word_25">clean</string>
+    <string name="a1transcription_25">/kliːn/</string>
+    <string name="a1translation_25">not dirty</string>
+    <string name="a1example_25">I like this place, because I have got a beautiful room. It is very clean and nice.</string>
+    <string name="a1uz_25">toza</string>
+
+    <string name="a1word_26">cleve</string>
+    <string name="a1transcription_26">/ˈklev.ər/</string>
+    <string name="a1translation_26">able to learn and understand things quickly and easily</string>
+    <string name="a1example_26">She was very clever at maths.</string>
+    <string name="a1uz_26">aqlliy</string>
+
+    <string name="a1word_27">clock</string>
+    <string name="a1transcription_27">/klɒk/</string>
+    <string name="a1translation_27">a piece of equipment that shows you what time it is</string>
+    <string name="a1example_27">I want to sell a clock that is ten years old.</string>
+    <string name="a1uz_27">soat</string>
+
+    <string name="a1word_28">colour</string>
+    <string name="a1transcription_28">/ˈkʌl.ər/</string>
+    <string name="a1translation_28">red, blue, green, yellow, etc.</string>
+    <string name="a1example_28">She wears a lot of bright colours.</string>
+    <string name="a1uz_28">rang</string>
+
+    <string name="a1word_29">dark</string>
+    <string name="a1transcription_29">/dɑːk/</string>
+    <string name="a1translation_29">nearer to black than white in colour</string>
+    <string name="a1example_29">"I don't like dark colours."</string>
+    <string name="a1uz_29">qoramtir</string>
+
+    <string name="a1word_30">dictionary</string>
+    <string name="a1transcription_30">/ˈdɪk.ʃən.ər.i/</string>
+    <string name="a1translation_30">a book that contains a list of words in alphabetical order with their meanings
+explained or written in another language</string>
+    <string name="a1example_30">To check how a word is spelt, look it up in a dictionary</string>
+    <string name="a1uz_30">"lug'at"</string>
+
+    <string name="a1word_31">die</string>
+    <string name="a1transcription_31">/daɪ/</string>
+    <string name="a1translation_31">to stop living or existing</string>
+    <string name="a1example_31">Our love will never die.</string>
+    <string name="a1uz_31">"o'lmoq"</string>
+
+    <string name="a1word_32">different</string>
+    <string name="a1transcription_32">/ˈdɪf.ər.ənt/</string>
+    <string name="a1translation_32">not the same</string>
+    <string name="a1example_32">My friends gave me different gifts.</string>
+    <string name="a1uz_32">boshqacha</string>
+
+    <string name="a1word_33">difficult</string>
+    <string name="a1transcription_33">/ˈdɪf.ɪ.kəlt/</string>
+    <string name="a1translation_33">when something is not easy to do or understand</string>
+    <string name="a1example_33">This book is very important because I have a difficult exam next Friday</string>
+    <string name="a1uz_33">qiyind</string>
+
+    <string name="a1word_34">drive</string>
+    <string name="a1transcription_34">drive</string>
+    <string name="a1translation_34">to move or travel on land in a motor vehicle</string>
+    <string name="a1example_34">I need them to drive my car.</string>
+    <string name="a1uz_34">moshina haydamoq</string>
+
+
+    <string name="a1word_35">each</string>
+    <string name="a1transcription_35">/iːtʃ/</string>
+    <string name="a1translation_35">every one in a group of two or more things or people when they are considered separately</string>
+    <string name="a1example_35">I am selling them for £5 each.</string>
+    <string name="a1uz_35">har bir</string>
+
+    <string name="a1word_36">end</string>
+    <string name="a1transcription_36">end</string>
+    <string name="a1translation_36">the final part of something such as a period of time, activity, or story</string>
+    <string name="a1example_36">At the end of the party we ate cake.</string>
+    <string name="a1uz_36">yakun</string>
+
+    <string name="a1word_37">enjoy</string>
+    <string name="a1transcription_37">/ɪnˈdʒɔɪ/</string>
+    <string name="a1translation_37">to get pleasure from something</string>
+    <string name="a1example_37">I really enjoyed my party!</string>
+    <string name="a1uz_37">maza qilmoq</string>
+
+    <string name="a1word_38">every</string>
+    <string name="a1transcription_38">/ˈev.ri/</string>
+    <string name="a1translation_38">each one of a group of people or things</string>
+    <string name="a1example_38">Every time I go to London I get caught in a traffic jam.</string>
+    <string name="a1uz_38">har bir</string>
+
+    <string name="a1word_39">example</string>
+    <string name="a1transcription_39"> /ɪgˈzɑːm.pl̩/</string>
+    <string name="a1translation_39">something which is typical of the group of things that is being talked about</string>
+    <string name="a1example_39">something which is typical of the group of things that is being talked about</string>
+    <string name="a1uz_39">misol</string>
+
+    <string name="a1word_40">excited</string>
+    <string name="a1transcription_40">/ɪkˈsaɪ.tɪd/</string>
+    <string name="a1translation_40">feeling very happy and enthusiastic</string>
+    <string name="a1example_40">I am very excited!</string>
+    <string name="a1uz_40">hayajonlangan</string>
+
+    <string name="a1word_41">excuse</string>
+    <string name="a1transcription_41">/ɪkˈskjuːz/</string>
+    <string name="a1translation_41">used to politely get someone is attention</string>
+    <string name="a1example_41">Excuse me, does this bus go to Oxford Street?</string>
+    <string name="a1uz_41">"kechirim so'rash"</string>
+
+    <string name="a1word_42">expensive</string>
+    <string name="a1transcription_42">/ɪkˈspent.sɪv/</string>
+    <string name="a1translation_42">costing a lot of money</string>
+    <string name="a1example_42">expensive jewellery</string>
+    <string name="a1uz_42">qimmat</string>
+
+    <string name="a1word_43">factory</string>
+    <string name="a1transcription_43">/ˈfæk.tər.i/</string>
+    <string name="a1translation_43">a building or set of buildings where large amounts of goods are made using machines</string>
+    <string name="a1example_43">a car/shoe factory,a factory worker/manager</string>
+    <string name="a1uz_43">zavod,fabrika</string>
+
+    <string name="a1word_44">famous</string>
+    <string name="a1transcription_44">/ˈfeɪ.məs/</string>
+    <string name="a1translation_44">known and recognized by many people</string>
+    <string name="a1example_44">a famous actor</string>
+    <string name="a1uz_44">mashhur</string>
+
+    <string name="a1word_45">fast</string>
+    <string name="a1transcription_45">/fɑːst/</string>
+    <string name="a1translation_45">moving or happening quickly, or able to move or happen quickly</string>
+    <string name="a1example_45">I like fast music very much.</string>
+    <string name="a1uz_45">tez</string>
+
+    <string name="a1word_46">fat</string>
+    <string name="a1transcription_46">/fæt/</string>
+    <string name="a1translation_46">Someone who is fat weighs too much.</string>
+    <string name="a1example_46">He eats all the time but he never gets fat.</string>
+    <string name="a1uz_46">semiz</string>
+
+    <string name="a1word_47">favourite</string>
+    <string name="a1transcription_47">/ˈfeɪ.vrət/</string>
+    <string name="a1translation_47">best liked or most enjoyed</string>
+    <string name="a1example_47">My favourite food is rice and curry.</string>
+    <string name="a1uz_47">sevimli</string>
+
+    <string name="a1word_48">feel</string>
+    <string name="a1transcription_48">/fiːl/</string>
+    <string name="a1translation_48">to experience something physical or emotional</string>
+    <string name="a1example_48">I feel embarrassed about making so many mistakes.</string>
+    <string name="a1uz_48">his qilmoq</string>
+
+    <string name="a1word_49">find</string>
+    <string name="a1transcription_49">/faɪnd/</string>
+    <string name="a1translation_49">to discover something or someone that you have been searching for</string>
+    <string name="a1example_49">Has Mick found himself a place to live yet?</string>
+    <string name="a1uz_49">topmoq</string>
+
+    <string name="a1word_50">fine</string>
+    <string name="a1transcription_50">/faɪn/</string>
+    <string name="a1translation_50">I felt terrible last night but I feel fine this morning.</string>
+    <string name="a1example_50">"Shall we meet at 8 o'clock?" "Yes, that's fine."</string>
+    <string name="a1uz_50">ajoyib</string>
+
+    <string name="a1word_51">finish</string>
+    <string name="a1transcription_51">/ˈfɪn.ɪʃ/</string>
+    <string name="a1translation_51">to complete something, or come to the end of an activity</string>
+    <string name="a1example_51">I have finished my course.</string>
+    <string name="a1uz_51">tugatmoq</string>
+
+    <string name="a1word_52">forget</string>
+    <string name="a1transcription_52">/fəˈget/</string>
+    <string name="a1translation_52">Do not forget: remember</string>
+    <string name="a1example_52">"Don't forget your homework!"</string>
+    <string name="a1uz_52">esdan chiqarmoq</string>
+
+    <string name="a1word_53">friend</string>
+    <string name="a1transcription_53">/frend/</string>
+    <string name="a1translation_53">someone who you know well and like</string>
+    <string name="a1example_53">Bob is an old friend of mine.</string>
+    <string name="a1uz_53">"do'st"</string>
+
+    <string name="a1word_54">fun</string>
+    <string name="a1transcription_54">/fʌn/</string>
+    <string name="a1translation_54">enjoyment or pleasure, or something that gives you enjoyment or pleasure</string>
+    <string name="a1example_54">I really enjoyed your party - it was such good fun.</string>
+    <string name="a1uz_54">xursandchilik</string>
+
+    <string name="a1word_55">garden</string>
+    <string name="a1transcription_55">/ˈgɑː.dən/</string>
+    <string name="a1translation_55">a piece of land belonging to a house, where flowers and other plants are grown</string>
+    <string name="a1example_55">I dropped it when we were playing with your dog in the garden.</string>
+    <string name="a1uz_55">"bog'"</string>
+
+    <string name="a1word_56">get</string>
+    <string name="a1transcription_56">/get/</string>
+    <string name="a1translation_56">to obtain or buy something</string>
+    <string name="a1example_56">Did you get the tickets for the concert?</string>
+    <string name="a1uz_56">olmoq</string>
+
+    <string name="a1word_57">give</string>
+    <string name="a1transcription_57">/gɪv/</string>
+    <string name="a1translation_57">to provide someone with something</string>
+    <string name="a1example_57">Her parents gave her a car for her birthday.</string>
+    <string name="a1uz_57">bermoq</string>
+
+    <string name="a1word_58">glass</string>
+    <string name="a1transcription_58">/glɑːs/</string>
+    <string name="a1translation_58">a hard transparent substance that objects such as windows and bottles are made of</string>
+    <string name="a1example_58">Would you like a glass of water?</string>
+    <string name="a1uz_58">stakan</string>
+
+    <string name="a1word_59">good</string>
+    <string name="a1transcription_59">/gʊd/</string>
+    <string name="a1translation_59">enjoyable, pleasant or interesting</string>
+    <string name="a1example_59">Did you have a good time at the party?</string>
+    <string name="a1uz_59">yaxshi</string>
+
+    <string name="a1word_60">happy</string>
+    <string name="a1transcription_60">/ˈhæp.i/</string>
+    <string name="a1translation_60">feeling, showing or causing pleasure</string>
+    <string name="a1example_60">I am so happy that everything is working out for you.</string>
+    <string name="a1uz_60">baxtli</string>
+
+    <string name="a1word_61">help</string>
+    <string name="a1transcription_61">/help/</string>
+    <string name="a1translation_61">to make it easier for someone to do something by doing part of the work yourself</string>
+    <string name="a1example_61">Thank you for helping.</string>
+    <string name="a1uz_61">yordam bermoq</string>
+
+    <string name="a1word_62">holiday</string>
+    <string name="a1transcription_62">/ˈhɒl.ɪ.deɪ/</string>
+    <string name="a1translation_62">a time when you do not have to go to work or school</string>
+    <string name="a1example_62">a public holiday</string>
+    <string name="a1uz_62">damolish kuni</string>
+
+    <string name="a1word_63">hot</string>
+    <string name="a1transcription_63">/hɒt/</string>
+    <string name="a1translation_63">having a high temperature</string>
+    <string name="a1example_63">a hot sunny day</string>
+    <string name="a1uz_63">issiq</string>
+
+    <string name="a1word_64">hungry</string>
+    <string name="a1transcription_64">/ˈhʌŋ.gri/</string>
+    <string name="a1translation_64">wanting or needing food</string>
+    <string name="a1example_64">She often goes hungry herself so that her children can have enough to eat.</string>
+    <string name="a1uz_64">och</string>
+
+    <string name="a1word_65">important</string>
+    <string name="a1transcription_65">/ɪmˈpɔː.tənt/</string>
+    <string name="a1translation_65">valuable, useful or necessary</string>
+    <string name="a1example_65">This is not important for me.</string>
+    <string name="a1uz_65">muhim,zarur</string>
+
+    <string name="a1word_66">interesting</string>
+    <string name="a1transcription_66">/ˈɪn.trəs.tɪŋ/</string>
+    <string name="a1translation_66">Someone or something that is interesting keeps your attention because they are
+unusual, exciting, or have a lot of ideas.</string>
+    <string name="a1example_66">"It is always interesting to hear other people's point of view."</string>
+    <string name="a1uz_66">qiziqarli</string>
+
+    <string name="a1word_67">invite</string>
+    <string name="a1transcription_67">/ɪnˈvaɪt/</string>
+    <string name="a1translation_67">to ask someone to come to a social event or to spend time with you socially</string>
+    <string name="a1example_67">I am really happy you invited me for dinner.</string>
+    <string name="a1uz_67">joyga taklifqilmoq</string>
+
+    <string name="a1word_68">job</string>
+    <string name="a1transcription_68">/dʒɒb/</string>
+    <string name="a1translation_68">the regular work that you do in order to earn money</string>
+    <string name="a1example_68">Hundreds of workers could lose their jobs.</string>
+    <string name="a1uz_68">ish,kasb</string>
+
+    <string name="a1word_69">key</string>
+    <string name="a1transcription_69">/kiː/</string>
+    <string name="a1translation_69">a piece of metal cut into a particular shape that is used for opening or closing the
+lock of a door, starting a car engine, etc.</string>
+    <string name="a1example_69">I left my keys at your house.</string>
+    <string name="a1uz_69">kalit</string>
+
+    <string name="a1word_70">know</string>
+    <string name="a1transcription_70">/nəʊ/</string>
+    <string name="a1translation_70">to have knowledge or information about something in your mind</string>
+    <string name="a1example_70">She knows the name of every kid in the school.</string>
+    <string name="a1uz_70">bilmoq</string>
+
+    <string name="a1word_71">language</string>
+    <string name="a1transcription_71">/ˈlæŋ.gwɪdʒ/</string>
+    <string name="a1translation_71">a type of communication used by the people of a particular country</string>
+    <string name="a1example_71">the English language</string>
+    <string name="a1uz_71">til</string>
+
+    <string name="a1word_72">learn</string>
+    <string name="a1transcription_72">/lɜːn/</string>
+    <string name="a1translation_72">to get knowledge or skill in a new subject or activity</string>
+    <string name="a1example_72">They learn Russian at school.</string>
+    <string name="a1uz_72">"o'rganmoq"</string>
+
+    <string name="a1word_73">leave</string>
+    <string name="a1transcription_73">/liːv/</string>
+    <string name="a1translation_73"> to go away from a place or a situation, either permanently or for a temporary period</string>
+    <string name="a1example_73">I leave home at 7.30.</string>
+    <string name="a1uz_73">ketmoq</string>
+
+    <string name="a1word_74">live</string>
+    <string name="a1transcription_74">/lɪv/</string>
+    <string name="a1translation_74">to have your home somewhere</string>
+    <string name="a1example_74">He lives with four other people in a shared house.</string>
+    <string name="a1uz_74">yashamoq</string>
+
+    <string name="a1word_75">letter</string>
+    <string name="a1transcription_75">/ˈlet.ər/</string>
+    <string name="a1translation_75">a written message that you send to someone, usually by post</string>
+    <string name="a1example_75">I got a letter from the bank this morning.</string>
+    <string name="a1uz_75">maktub</string>
+
+    <string name="a1word_76">life</string>
+    <string name="a1transcription_76">/laɪf/</string>
+    <string name="a1translation_76">"the time between a person's birth and their death"</string>
+    <string name="a1example_76">Unfortunately, accidents are part of life.</string>
+    <string name="a1uz_76">hayot</string>
+
+    <string name="a1word_77">light</string>
+    <string name="a1transcription_77">/laɪt/</string>
+    <string name="a1translation_77">Light colours are pale.</string>
+    <string name="a1example_77">I am going to paint it light blue.</string>
+    <string name="a1uz_77">yorqin</string>
+
+    <string name="a1word_78">like</string>
+    <string name="a1transcription_78">/laɪk/</string>
+    <string name="a1translation_78">to enjoy something or feel that someone or something is pleasant</string>
+    <string name="a1example_78">I like reading and writing.</string>
+    <string name="a1uz_78">yoqtirmoq</string>
+
+    <string name="a1word_79">listen</string>
+    <string name="a1transcription_79">/ˈlɪs.ən/</string>
+    <string name="a1translation_79">to give attention to someone or something in order to hear them</string>
+    <string name="a1example_79">"Listen, if you need money, I'm happy to lend you some."</string>
+    <string name="a1uz_79">eshitmoq</string>
+
+    <string name="a1word_80">little</string>
+    <string name="a1transcription_80">/ˈlɪt.l̩/</string>
+    <string name="a1translation_80">small in size or amount</string>
+    <string name="a1example_80">He gave a little smile.</string>
+    <string name="a1uz_80">kichkina</string>
+
+    <string name="a1word_81">long</string>
+    <string name="a1transcription_81">/lɒŋ/</string>
+    <string name="a1translation_81">continuing for a large amount of time</string>
+    <string name="a1example_81">Apparently the sessions are an hour long.</string>
+    <string name="a1uz_81">uzun</string>
+
+    <string name="a1word_82">look</string>
+    <string name="a1transcription_82">/lʊk/</string>
+    <string name="a1translation_82">to turn your eyes in the direction of something or someone so that you can see them</string>
+    <string name="a1example_82">She looked up from her book and smiled at me.</string>
+    <string name="a1uz_82">qaramoq</string>
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+<!--    <string name="a1word_31">die</string>-->
+<!--    <string name="a1transcription_31"></string>-->
+<!--    <string name="a1translation_31"></string>-->
+<!--    <string name="a1example_31"></string>-->
+<!--    <string name="a1uz_31"></string>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+

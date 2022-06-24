@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/vocab_section"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".VocabularyShop.Complex.Comlex.ComplexVocabularyActivity"
+    android:orientation="vertical">
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/layout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/days_one"
+            android:text="Vocabulary"
+            android:textAlignment="center"
+            android:textColor="@color/icon"
+            android:textSize="28sp" />
+    </Toolbar>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/A1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/layout"
+            android:layout_marginBottom="@dimen/level_fit"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="A1 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/level_fit"
+            android:id="@+id/A2"
+            app:cardBackgroundColor="@color/layout"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp"
+            tools:ignore="NotSibling">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="A2 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/level_fit"
+            android:id="@+id/B1"
+            app:cardBackgroundColor="@color/layout"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp"
+            tools:ignore="NotSibling">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="B1 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/B2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/layout"
+            app:cardCornerRadius="8dp"
+            android:layout_marginBottom="@dimen/level_fit"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="B2 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/level_fit"
+            android:id="@+id/C1"
+            app:cardBackgroundColor="@color/layout"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp"
+            tools:ignore="NotSibling">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="C1 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/C2"
+            app:cardBackgroundColor="@color/layout"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="8dp"
+            tools:ignore="NotSibling">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:fontFamily="@font/days_one"
+                android:gravity="center"
+                android:text="C2 Level"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

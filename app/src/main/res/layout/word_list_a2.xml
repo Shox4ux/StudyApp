@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/button_layout_a2"
+    app:cardBackgroundColor="@color/Blue"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    app:cardCornerRadius="12dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/word_btn_a2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/days_one"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="English Words"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:textStyle="normal"
+        tools:ignore="MissingConstraints" />
+
+</androidx.cardview.widget.CardView>

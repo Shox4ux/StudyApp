@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#222831</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#eeeeee</color>
+
+
+<!-- Custom colors   -->
+    <color name="text_bg_color">#f0f8ff</color>
+    <color name="section_bg_color">#fff</color>
+
+<!--  For Buttons  -->
+    <color name="c1_color">#006400</color>
+    <color name="c2_color">#1c1c1c</color>
+    <color name="Red">#fe4a49</color>
+    <color name="Cyan">#FFC107</color>
+    <color name="Blue">#1F3ACC</color>
+    <color name="Grey">#e6e6ea</color>
+    <color name="Pink">#FF5722</color>
+    <color name="Lollipop">#ff8c00</color>
+
+<!-- Real colors   -->
+    <color name="background">#222831</color>
+    <color name="layout">#393e46</color>
+    <color name="button">#00adb5</color>
+    <color name="icon">#eeeeee</color>
+
+<!--  Test colors  -->
+    <color name="colorPrimary">#ffc107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="colorBack">#fcfcfc</color>
+    <color name="lightGray">#ededed</color>
+
+
+
+
+
+</resources>
